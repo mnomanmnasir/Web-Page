@@ -1,0 +1,78 @@
+body{
+    padding: 50px;
+    background-color: blue;
+}
+.salmon{
+    background-color: salmon;
+}
+.lightblue{
+    background-color: lightblue;
+}
+.gray{
+    background-color: lightgray;
+}
+img{
+    /* position: absolute; */
+    /* top: 25px;
+    left: 200px; */
+    /* bottom: 20px; */
+   /* z-index: 1000; */
+    /* display: flex; */
+   /* flex-wrap: ; */
+    width: 50%;
+    margin-top: 100px;
+    /* padding-top: -20%; */
+    /* padding-left: 40%; */
+    height: -100px;
+    /* height: 90vh; */
+
+}
+.left{
+    float:left;
+    /* display: flex; */
+    margin: 0 auto;
+}
+.right{
+    float: right;
+}
+.main1{
+    padding: 20px;
+}
+.gray ul {
+    padding: 0px!important;
+    margin: 0px!important;
+}
+.gray ul li{
+    list-style: none;
+   
+}
+a{
+    color: black;
+    padding: 10px 10px;
+    margin: 5px 10px;
+}
+a:hover{
+    background-color: darkmagenta;
+}
+i{
+    font-size: 20px;
+    color: darkmagenta;
+    padding: 10px 10px;
+    margin: 5px 10px;
+}
+
+i:hover{
+    color: lightgrey;
+}
+
+
+.first{
+    margin-bottom: 40px;
+}
+.last{
+    margin-top: 58px;
+}
+.height{
+
+    height: 100%;
+}
